@@ -2,6 +2,8 @@
 
 Example to implementation a simple CRUD and login in Parse Server SDK.
 
+Needs a asset/settings.json for configurations to server.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
