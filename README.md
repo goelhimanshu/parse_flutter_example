@@ -1,4 +1,4 @@
-# test_parse
+# Parse Example in Flutter
 
 Example to implementation a simple CRUD and login in Parse Server SDK.
 
